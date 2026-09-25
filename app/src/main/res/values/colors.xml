@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FF0F1115</color>
+    <color name="surface">#FF1B1E26</color>
+    <color name="surface_variant">#FF242833</color>
+    <color name="accent">#FF2E6BE6</color>
+    <color name="on_accent">#FFFFFFFF</color>
+    <color name="text_primary">#FFE8EAF0</color>
+    <color name="text_secondary">#FF9AA1B0</color>
+    <color name="dot_idle">#FF5A6070</color>
+    <color name="dot_working">#FFE0A030</color>
+    <color name="dot_ok">#FF34C759</color>
+    <color name="dot_err">#FFE5484D</color>
+    <color name="disconnect_btn">#FF7A2A33</color>
+</resources>
